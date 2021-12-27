@@ -7,11 +7,10 @@ import Begintime from "./Components/Begintime";
 function Timer(){
     return (
         <div>
-        <Body />
-            <Header />
-            <ItemTime/>
+
+
             <Newtime/>
-            <Begintime/>
+
         </div>
     )
 }
